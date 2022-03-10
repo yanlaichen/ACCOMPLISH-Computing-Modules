@@ -1,3 +1,5 @@
+# This module was created by Dr. Scott Field of UMass Dartmouth
+
 Python is the most popular programming language and has found widespread use across science and engineering. Git is a software development tool that is widely used in industry and academia. Basic knowledge of the command-line is essential in all forms of scientific computing.
 
 This module can be used to help students setup their computers to use Python and Git, while providing some exposure to the command-line. It's intended for students who have never used Python or Git, but could be helpful for students of all levels. The instructions are applicable for Linux, MacOS, and Windows operating systems. 
