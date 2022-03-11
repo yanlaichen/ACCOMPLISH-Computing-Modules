@@ -1,4 +1,6 @@
-# This module was created by Dr. Scott Field of UMass Dartmouth
+# This module was created by Dr. Scott Field of UMass Dartmouth, and can be adopted in the following courses
+# MTH 280 - Introduction to Scientific Computation
+# MTH 361/362 - Numerical Analysis
 
 Python is the most popular programming language and has found widespread use across science and engineering. Git is a software development tool that is widely used in industry and academia. Basic knowledge of the command-line is essential in all forms of scientific computing.
 
