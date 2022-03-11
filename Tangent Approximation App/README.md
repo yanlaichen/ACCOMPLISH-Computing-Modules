@@ -86,3 +86,4 @@ plt.show()
 ```
 
 # Videos
+See this video for a description of the tangent approximation, and this one for a demo of the App.
