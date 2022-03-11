@@ -1,6 +1,9 @@
 # This module was created by Dr. Zheng Chen of UMass Dartmouth, and can be adopted in the following courses
 
-The goal of this module is to build a graphical user interface (GUI) in MATLAB to approximate integrations. Covered numerical integration methods include Midpoint Rule, Trapezoidal Rule, Simpon's Rule, Simpson's 3/8 Rule, Composite Numerical Integration, and Monte Carlo Integration
+The goal of this module is to build a graphical user interface (GUI) in MATLAB to approximate integrations. 
+![image](https://user-images.githubusercontent.com/5354744/157935701-f6c2c9dd-5483-4f24-87dc-063aac64be7a.png)
+
+Covered numerical integration methods include Midpoint Rule, Trapezoidal Rule, Simpon's Rule, Simpson's 3/8 Rule, Composite Numerical Integration, and Monte Carlo Integration
 
 # GUI Input 
 The user will input the formula of the integrand function, the range of integration, and choose a numerical integration method. 
