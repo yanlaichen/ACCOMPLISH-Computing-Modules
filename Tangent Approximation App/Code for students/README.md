@@ -1,3 +1,6 @@
+The following code plots a function and its derivative as shown in the image below
+![image](https://user-images.githubusercontent.com/5354744/157934346-bb94dd67-be09-4f3d-8453-6cba83477f08.png)
+
 ```
 from matplotlib import pyplot as plt
 import numpy as np
