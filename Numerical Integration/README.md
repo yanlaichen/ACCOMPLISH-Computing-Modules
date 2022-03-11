@@ -9,3 +9,6 @@ The user will input the formula of the integrand function, the range of integrat
 The framework of this GUI is provided to students in the file "integration_GUI.m". The full version is provided to the instructor, and the students will work on the student version with parts of the code being blank.
 
 The student's mission is to study different numerical integration methods and finish the subroutines/functions for each methods. The blank parts are under the routine "function Calculate_pushbutton_Callback(hObject, eventdata, handles)".
+
+# Videos
+See the video for a full introduction of this module, and this one for a demo of the Matlab code.
