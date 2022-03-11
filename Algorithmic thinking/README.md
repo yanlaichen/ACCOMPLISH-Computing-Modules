@@ -1,4 +1,4 @@
-# This module was developed by Dr. Robert Fisher of UMass Dartmouth, and can be used for the following courses
+# This module was created by Dr. Robert Fisher of UMass Dartmouth, and can be adopted in the following courses
 
 PHY 113 - Classical Physics I
 
