@@ -73,4 +73,4 @@ plt.show()
 ```
 
 # Videos
-See this video for a description of the tangent approximation, and this one for a demo of the App.
+See [this video](https://youtu.be/vdrlw1ARdBM) for a description of the tangent approximation module, and [this one](https://youtu.be/5vmueE46YRw) for a demo of the App.
