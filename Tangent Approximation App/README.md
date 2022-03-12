@@ -19,14 +19,14 @@ This module folder (TheTangentApproximation) contains the following files and su
 
 3. The code subfolder containing
    - The subfolder instructor_tangemtApproximation containing code files for the instructor.
-    - The READ_ME_Matplotlib_ExamplePlot.py program file.
-    - The main program: tangentApproximationAppV1.py
-    - The completed user library: tangentApproximationLib.py
-    - Examples of how to use the completed app with different functions: example0.py, example1.py, example2.py, example3.py,example4.py, example5.py, and example6.py
+     - The READ_ME_Matplotlib_ExamplePlot.py program file.
+     - The main program: tangentApproximationAppV1.py
+     - The completed user library: tangentApproximationLib.py
+     - Examples of how to use the completed app with different functions: example0.py, example1.py, example2.py, example3.py,example4.py, example5.py, and example6.py
    - The subfolder student_tangemtApproximation containing code files for the student.
-    - The READ_ME_Matplotlib_ExamplePlot.py
-    - The main program: tangentApproximationAppV1.py
-    - The completed user library: tangentApproximationStudentLib.py
+     - The READ_ME_Matplotlib_ExamplePlot.py
+     - The main program: tangentApproximationAppV1.py
+     - The completed user library: tangentApproximationStudentLib.py
 
 # An example Matplotlib code
 
