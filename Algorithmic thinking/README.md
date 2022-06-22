@@ -6,5 +6,4 @@ This is a gentle introduction to algorithmic thinking, with an application to pr
 programming course. Everything is embedded in a Jupyter notebook, including a self-guided quickstart introduction on how to use Jupyter. There is also a 
 basic introduction to the concept of physical models, broadly conceived.
 
-It features an interactive widget interface where students can vary parameters and run a simulation of projectile motion to compare 
-against a recorded result or an in-lab experiment.
+It features an exercises where students can vary parameters and run a simulation of projectile motion to compare against the exact solution. It can be extended to compare against a recorded result or an in-lab experiment, or to incorporate more drag resistance.
