@@ -10,28 +10,29 @@ The following steps are suggested for deploying this module. The instructions as
 
 # Step 1: Discussion of operating systems 
 
-(*) Students should be made aware that there are three main flavors of operating systems (Windows, Linux, MacOS) and that some minor differences in conventions exist among them.
-(*) Provide students with the document OperatingSystems-WindowsUsers.pdf. This is especially important for Windows users.
-  (*) Installation instructions for Windows users can be found by viewing the following video created specifically for this module: https://www.youtube.com/watch?v=-JJWJXrLF0A
+* Students should be made aware that there are three main flavors of operating systems (Windows, Linux, MacOS) and that some minor differences in conventions exist among them.
+* Provide students with the document OperatingSystems-WindowsUsers.pdf. This is especially important for Windows users.
+  * Installation instructions for Windows users can be found by viewing the following video created specifically for this module: https://www.youtube.com/watch?v=-JJWJXrLF0A
 
 # Step 2: Installing Anaconda
 
 Suggest that students install Python using Anaconda. The following points should be mentioned:
 
-(*) Anaconda is a package manager (like an app store) and a computational programming environment for Python. Python and many other essential programs (e.g. spyder) will be installed
-(*) Automatically handles dependencies across platforms
-(*) Please install (very easy) the 64-bit option (Python 3): https://www.continuum.io/downloads
+* Anaconda is a package manager (like an app store) and a computational programming environment for Python. Python and many other essential programs (e.g. spyder) will be installed
+* Automatically handles dependencies across platforms
+* Please install (very easy) the 64-bit option (Python 3): https://www.continuum.io/downloads
 
 # Step 3: Installing Git
 
-(*) MacOS and Linux users should do
-  (1) search for the "terminal" program and open it up
-  (2) from the command-line, run "conda install git"
-(*) Windows users: follow the handout OperatingSystems-WindowsUsers.pdf (which points to a video to show these steps)
+* Windows users: follow the handout OperatingSystems-WindowsUsers.pdf (which points to a video to show these steps)
+* MacOS and Linux users should do
+
+1. search for the "terminal" program and open it up
+2.  from the command-line, run "conda install git"
 
 # Step 4: Computational lab/handout (checking the installation)
 
 The computing lab was run as an in-class, hands-on activity. The exact lab given in class is provided. A few things to keep in mind
 
-(*) A portion of the lab involves students cloning a git repo and pushing back to it. This would require the instructor to setup a git project before the lab and giving the student read/write permissions. Alternatively, these parts could be skipped. 
-(*) Before running this lab, the instructor should give a brief introduction to using the command line. 
+* A portion of the lab involves students cloning a git repo and pushing back to it. This would require the instructor to setup a git project before the lab and giving the student read/write permissions. Alternatively, these parts could be skipped. 
+* Before running this lab, the instructor should give a brief introduction to using the command line. 
