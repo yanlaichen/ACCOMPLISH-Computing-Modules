@@ -7,6 +7,11 @@ In this module, students will finish building a MATLAB App Designer application 
   <img src="Screenshot_GUI_differentiation.png" alt="App Screenshot" />
 </p>
 
+## Contents
+- "GUI_differentiation_student": Contains the app file and a version of the source code function with blank blocks for students to complete as part of the assignment.
+- "GUI_differentiation_complete": Intended for the advisor, with the app file and the completed source code function.
+- "ACCOMPLISH - Numerical Differentiation.pdf" PDF version of this README.
+
 ## Overview of the GUI  
 1. **User inputs**  
    - **Function:** Enter the formula, for example `f(x) = sin(x)`  
