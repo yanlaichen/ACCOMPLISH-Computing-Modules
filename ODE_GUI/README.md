@@ -10,6 +10,7 @@ See instructions [here](http://htmlpreview.github.io/?https://github.com/yanlaic
 - GUI_ODE_solver_guide.html: The HTML version of the module introduction. This is rendered in the above instructions link.
 - GUI_ODE_solver_guide.mlx: The raw MATLAB Live Script used to generate the HTML
   file.
+- See [this page](https://accomplish.sites.umassd.edu/course-modules/) for videos of a demo and introduction.
 
 ## Solutions
 - [GUI_ode_solver](https://github.com/vijayvarma392/ACCOMPLISH_Computing_Modules_Solutions/tree/main/ODE_GUI/GUI_ODE_solver): This contains the full, completed version of the files for instructor/advisor use only.
