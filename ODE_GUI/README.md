@@ -7,6 +7,9 @@ See instructions [here](http://htmlpreview.github.io/?https://github.com/yanlaic
 ## Contents
 
 - GUI_ode_solver_student: This contains the student-facing materials. The .m files have missing code blocks for students to complete.
-- GUI_ode_solver: This contains the full, completed version of the files for instructor/advisor use only.
 - GUI_ODE_solver_guide.html: The HTML version of the module introduction. This is rendered in the above instructions link.
-- GUI_ODE_solver_guide.mlx: The raw MATLAB Live Script used to generate the HTML file.
+- GUI_ODE_solver_guide.mlx: The raw MATLAB Live Script used to generate the HTML
+  file.
+
+## Solutions
+- [GUI_ode_solver](https://github.com/vijayvarma392/ACCOMPLISH_Computing_Modules_Solutions/tree/main/ODE_GUI/GUI_ODE_solver): This contains the full, completed version of the files for instructor/advisor use only.

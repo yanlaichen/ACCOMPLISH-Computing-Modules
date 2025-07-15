@@ -9,8 +9,11 @@ In this module, students will finish building a MATLAB App Designer application 
 
 ## Contents
 - "GUI_differentiation_student": Contains the app file and a version of the source code function with blank blocks for students to complete as part of the assignment.
-- "GUI_differentiation_complete": Intended for the advisor, with the app file and the completed source code function.
 - "ACCOMPLISH - Numerical Differentiation.pdf" PDF version of this README.
+
+## Solutions
+- [GUI_differentiation_complete](https://github.com/vijayvarma392/ACCOMPLISH_Computing_Modules_Solutions/tree/main/Differentiation_GUI/GUI_differentiation_complete): Intended for the advisor, with the app file and the completed source code function.
+
 
 ## Overview of the GUI  
 1. **User inputs**  
